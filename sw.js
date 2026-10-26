@@ -1,4 +1,4 @@
-// nome do cache versionado: mudou o shell, muda o numero
+
 const CACHE_NAME = "agenda-v2";
 
 
