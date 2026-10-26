@@ -1,0 +1,18 @@
+body { font-family: sans-serif; margin: 0; }
+.topo { background: #1565c0; color: #fff; padding: 12px 16px; }
+main { padding: 16px; }
+footer { padding: 16px; text-align: center; }
+
+
+#status {
+  padding: 4px 12px;
+  border-radius: 12px;
+}
+#status.online {
+  background: #e8f5e9;
+  color: #2e7d32;
+}
+#status.offline {
+  background: #ffebee;
+  color: #c62828;
+}
